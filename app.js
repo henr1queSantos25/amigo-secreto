@@ -30,7 +30,6 @@ function reiniciarJogo(){
     document.getElementById("resultado").innerHTML = '';
     document.getElementById("listaAmigos").innerHTML = '';
     listaAmigos = [];
-    console.log(listaAmigos);
 }
 
 
