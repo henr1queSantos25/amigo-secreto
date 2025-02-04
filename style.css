@@ -149,8 +149,9 @@ ul {
     padding: 10px 40px;
     color: var(--color-white);
     background-color: var(--color-button);
-    font-size: 16px;
-    margin-right: 10px; 
+    font-size: 20px;
+    margin-right: 10px;  
+    white-space: nowrap; 
 }
 
 .button-draw img {
